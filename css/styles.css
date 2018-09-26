@@ -544,7 +544,7 @@ footer {
 }
 #contact-form input:focus,#contact-form textarea:focus {
  outline:none;
- background:#954141
+ background:#81A5BF
 }
 #contact-form textarea {
  height:150px;
